@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(72,29): error C2039: "convertible_to": 不是 "std" 的成员
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\chrono(50,1): message : 参见“std”的声明
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(72,43): error C2061: 语法错误: 标识符“convertible_to”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,21): error C2065: “args”: 未声明的标识符
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,1): error C3531: “arg”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,17): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,19): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,19): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,25): error C2143: 语法错误: 缺少“;”(在“...”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,25): error C2059: 语法错误:“...”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,1): error C2059: 语法错误:“)”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(75,40): error C2065: “arg”: 未声明的标识符
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\pefile.h(58,24): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(438,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(448,122): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(469,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(483,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(470,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pefile.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(72,29): error C2039: "convertible_to": 不是 "std" 的成员
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\chrono(50,1): message : 参见“std”的声明
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(72,43): error C2061: 语法错误: 标识符“convertible_to”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,21): error C2065: “args”: 未声明的标识符
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,1): error C3531: “arg”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,17): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,19): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,19): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,25): error C2143: 语法错误: 缺少“;”(在“...”的前面)
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,25): error C2059: 语法错误:“...”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(74,1): error C2059: 语法错误:“)”
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\bytes.hpp(75,40): error C2065: “arg”: 未声明的标识符
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\pefile.h(58,24): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\pefile.cpp(103,37): error C7555: 使用指定的初始值设定项至少需要“/std:c++20”

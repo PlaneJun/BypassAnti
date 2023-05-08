@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(Loader.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(443,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(488,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(530,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(533,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(568,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(571,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(475,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\BypassAnti\main.cpp(439,25): warning C4101: “e”: 未引用的局部变量
+  正在生成代码
+  2 of 275 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BypassAnti.vcxproj -> C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Release\BypassAnti.exe

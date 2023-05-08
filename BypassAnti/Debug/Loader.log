@@ -1,0 +1,5 @@
+﻿  Loader.cpp
+  pefile.cpp
+  正在生成代码...
+Loader.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  Loader.vcxproj -> C:\Users\PlaneJun\Desktop\BypassAnti\Loader\Debug\Loader.exe

@@ -1,0 +1,9 @@
+﻿  Assembling loader.asm...
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Loader64\main.cpp(112,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Loader64\main.cpp(126,20): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Loader64\main.cpp(155,19): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Loader64\main.cpp(156,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\Loader64\main.cpp(175,18): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  Loader64.vcxproj -> C:\Users\PlaneJun\Desktop\BypassAnti\BypassAnti\x64\Release\Loader64.exe
